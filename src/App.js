@@ -1,26 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import './App.css'
+// import components from other folder
+import card from './components/card'
+import container from './components/container'
+import footer from './components/footer'
+import header from './components/header'
+import navbar from './components/navbar'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  render () {
+    return (
+      <div className='App'>
+        <Header />
+        <Board />
+        <Footer />
+      </div>
+    )
+	}
 }
 
-export default App;
+export default App
