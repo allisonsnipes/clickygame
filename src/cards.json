@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "Sailor Moon",
+		"image": "https://dw9to29mmj727.cloudfront.net/properties/2016/432-SeriesThumbnails_SM__400x320.jpg",
+		"count": 0
+	},
+	{
+		"id": 2,
+		"name": "Sailor Mercury",
+		"img": "https://screenrant.com/wp-content/uploads/2017/04/Sailor-Moon-Ami-as-Sailor-Mercury.jpg",
+		"count": 0
+	},
+	{
+		"id": 3,
+		"name": "Sailor Mars",
+		"img": "https://i.pinimg.com/originals/4a/00/b4/4a00b48a1d279d2c80b84db2a3eac2fb.jpg",
+		"count": 0
+	},
+	{
+		"id": 4,
+		"name": "Sailor Jupiter",
+		"img": "https://images-na.ssl-images-amazon.com/images/I/614KM2gnuML.jpg",
+		"count": 0
+	},
+	{
+		"id": 5,
+		"name": "Sailor Venus",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6ZZRa8mmAE8FQnH-EbuPqmxMehbY3vTBfh04bvhaBRGI3N-C2w",
+		"count": 0
+	},
+	{
+		"id": 6,
+		"name": "Tuxedo Mask",
+		"img": "https://i.ytimg.com/vi/1dCQs-hk9Jg/maxresdefault.jpg",
+		"count": 0
+	},
+	{
+		"id": 7,
+		"name": "Sailor Chibi-Moon",
+		"img": "https://vignette.wikia.nocookie.net/sailormooncrystal/images/d/db/YwNQVTSiGXM.jpg/revision/latest?cb=20160613234128",
+		"count": 0
+	},
+	{
+		"id": 8,
+		"name": "Sailor Uranus",
+		"img": "https://img.buzzfeed.com/buzzfeed-static/static/2015-06/22/19/enhanced/webdr12/original-grid-image-9364-1435015639-11.jpg?crop=300:300;50,0&downsize=300:*&output-format=auto&output-quality=auto",
+		"count": 0
+	},
+	{
+		"id": 9,
+		"name": "Sailor Neptune",
+		"img": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/sailor-neptune-michiru-kaioh-pretty-guardian-sailor-moon-crystal-54.9.jpg",
+		"count": 0
+	},
+	{
+		"id": 10,
+		"name": "Sailor Pluto",
+		"img": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/sailor-pluto-setsuna-meio-sailor-moon-22.1.jpg",
+		"count": 0
+	},
+	{
+		"id": 11,
+		"name": "Sailor Saturn",
+		"img": "https://vignette.wikia.nocookie.net/sailormoon/images/4/4a/Sailorsaturn.png/revision/latest?cb=20130322164144",
+		"count": 0
+	},
+	{
+		"id": 12,
+		"name": "Luna Artemis Diana",
+		"img": "https://www.tuxedounmasked.com/wp-content/uploads/2016/03/luna-artemis-diana.png",
+		"count": 0
+	}
+]
